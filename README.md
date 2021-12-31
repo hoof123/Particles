@@ -1,4 +1,4 @@
-## particles.js
+## particles.js - JP Creative Media WordPress integration
 
 ### A lightweight JavaScript library for creating particles.
 
